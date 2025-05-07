@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Combustible</string>
+    <string name="start_calculation">Iniciar Cálculo</string>
+    <string name="next">Siguiente</string>
+    <string name="calculate">Calcular</string>
+    <string name="back_to_start">Volver al Inicio</string>
+    <string name="fuel_price">Precio del Combustible</string>
+    <string name="fuel_consumption">Consumo de Combustible</string>
+    <string name="distance">Distancia del Viaje</string>
+    <string name="calculation_result">Resultado del Cálculo</string>
+    <string name="total_cost">Costo Total</string>
+    <string name="price_per_liter">Precio por litro (€)</string>
+    <string name="consumption_km_l">Consumo (km/L)</string>
+    <string name="distance_in_km">Distancia (km)</string>
+    <string name="estimated_cost">Resultados del cálculo:</string>
+    <string name="enter_valid_price">Por favor, introduce un precio válido</string>
+    <string name="enter_valid_consumption">Por favor, introduce un consumo válido</string>
+    <string name="enter_valid_distance">Por favor, introduce una distancia válida</string>
+    <string name="summary_format">Distancia recorrida: %.2f km\nConsumo del vehículo: %.2f km/L\nPrecio del combustible: %.2f €/L\nLitros necesarios: %.2f L</string>
+    <string name="cost_format">Costo total del viaje: %.2f €</string>
+    <string name="icono_precio">Icono de precio de combustible</string>
+    <string name="icono_distancia">Icono de distancia</string>
+    <string name="icono_consumo">Icono de consumo de combustible</string>
+    <string name="icono_resultado">Icono de resultado</string>
+    <string name="result">Resultado</string>
+</resources>
