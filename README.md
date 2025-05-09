@@ -8,7 +8,16 @@ Fuel Calculator es una aplicación Android diseñada para ayudar a los usuarios 
 *Pantalla principal de la aplicación*
 
 <img src="docs/price_calculation.jpg" alt="Cálculo de Precio" width="250"/>
-*Cálculo del precio del combustible*
+*Pantalla de ingreso del precio del combustible*
+
+<img src="docs/Screenshot_2025-05-07-11-39-23-748_com.example.fuelcalculator.jpg" alt="Pantalla de ingreso de distancia" width="250"/>
+*Pantalla de ingreso de distancia*
+
+<img src="docs/Screenshot_2025-05-07-11-39-35-313_com.example.fuelcalculator.jpg" alt="Pantalla de ingreso de consumo" width="250"/>
+*Pantalla de ingreso de consumo*
+
+<img src="docs/Screenshot_2025-05-07-11-39-15-873_com.example.fuelcalculator.jpg" alt="Pantalla de resultado" width="250"/>
+*Pantalla de resultado*
 
 ## Características
 - Interfaz de usuario intuitiva y fácil de usar
