@@ -3,6 +3,13 @@
 ## Descripción
 Fuel Calculator es una aplicación Android diseñada para ayudar a los usuarios a calcular y gestionar sus gastos de combustible. La aplicación permite a los usuarios ingresar el precio del combustible por litro y realizar cálculos relacionados con el consumo de combustible.
 
+## Capturas de Pantalla
+![Pantalla Principal](docs/main_screen.png)
+*Pantalla principal de la aplicación*
+
+![Cálculo de Precio](docs/price_calculation.png)
+*Cálculo del precio del combustible*
+
 ## Características
 - Interfaz de usuario intuitiva y fácil de usar
 - Cálculo del precio del combustible por litro
